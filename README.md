@@ -1,4 +1,4 @@
-Run `sudo ./can_config.sh` on the host (outside of the container) to reset and configure the can1 interface. Do this once at the beginning, and re-run if the interface gets stuck.
+Run `sudo ./can_setup.sh` on the host (outside of the container) to reset and configure the can1 interface. Do this once at the beginning, and re-run if the interface gets stuck.
 
 Build container:
 ```
